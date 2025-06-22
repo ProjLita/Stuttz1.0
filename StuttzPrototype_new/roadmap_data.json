@@ -1,0 +1,52 @@
+{
+  "course_name": "Python para Iniciantes",
+  "total_phases": 5,
+  "phases": [
+    {
+      "id": 1,
+      "title": "Fundamentos",
+      "description": "Aprenda os conceitos básicos do Python",
+      "status": "completed",
+      "tasks": [
+        "Instalar Python e configurar ambiente",
+        "Entender variáveis e tipos de dados",
+        "Criar seu primeiro programa"
+      ],
+      "quiz": {
+        "question": "Qual comando exibe texto na tela em Python?",
+        "options": [
+          "show()",
+          "print()",
+          "display()",
+          "output()"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "print() é a função padrão para exibir texto na tela."
+      },
+      "quiz_completed": true
+    },
+    {
+      "id": 2,
+      "title": "Estruturas de Dados",
+      "description": "Trabalhe com listas, tuplas e dicionários",
+      "status": "completed",
+      "tasks": [
+        "Criar e manipular listas",
+        "Entender tuplas e suas características",
+        "Trabalhar com dicionários"
+      ],
+      "quiz": {
+        "question": "Como criar uma lista vazia em Python?",
+        "options": [
+          "list()",
+          "[]",
+          "new list()",
+          "empty()"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "[] é a sintaxe mais comum e simples."
+      },
+      "quiz_completed": true
+    }
+  ]
+}
