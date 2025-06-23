@@ -77,9 +77,13 @@ Stuttz estabelece um compromisso mágico com seus usuários:
 - **Adaptação**: O oráculo compreende as necessidades de cada aprendiz
 - **Imersão**: A experiência estética transporta o estudante para um mundo onde aprender é uma aventura
 
-  ---
-# Versão séria
-  ---
+
+
+---
+#Versão séria
+---
+
+
 
   # Stuttz - Plataforma de Aprendizado Multidisciplinar
 
